@@ -1,4 +1,5 @@
-from models import gan, gan_cls
+from gan import *
+from gan_cls import *
 
 class gan_factory(object):
 
