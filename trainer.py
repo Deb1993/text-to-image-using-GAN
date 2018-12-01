@@ -6,7 +6,7 @@ from torch.autograd import Variable
 from torch.utils.data import DataLoader
 
 from txt2image_dataset import Text2ImageDataset    #txt2image_dataset.ipynb file
-from models.gan_factory import gan_factory         #models/gan_factory.ipynb file
+from models import gan_factory         #models/gan_factory.ipynb file
 from utils import Utils, Logger    #utils.ipynb file
 from PIL import Image
 import os
