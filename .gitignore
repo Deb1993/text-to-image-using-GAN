@@ -1,6 +1,11 @@
 *.log
 <<<<<<< HEAD
+<<<<<<< HEAD
 .ipynb_checkpoints/*
 *.pyc
 =======
 >>>>>>> dfc2330e28b5400122771cf6bac21c7dee5d587b
+=======
+.ipynb_checkpoints/*
+*.pyc
+>>>>>>> 0181f96d0e1e09f5ba502470953afb2ceb701b71
